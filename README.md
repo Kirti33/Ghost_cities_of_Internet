@@ -126,11 +126,11 @@ The story of Orkut, Yahoo, Skype, and Clubhouse shows that even the most vibrant
 ~ The lesson: Digital dominance is temporary. Sustained success requires continuous innovation, user-centered design, and resilience against fast-moving competitors.
 ---
 
-## 👩‍💻 Author
 
-Project by **Kirti Chhabra**  
+## 📬 Connect With Me
 🔗 [GitHub Profile](https://github.com/Kirti33)  
 📝 [Read full analysis on Medium](https://medium.com/@Kirtichhabra/ghost-cities-of-the-internet-85202211d490)
-💼 [LinkedIn](https://www.linkedin.com/in/kirtichhabra/)
+💼 [LinkedIn](https://www.linkedin.com/in/kirti-chhabra-8b9b9525a)
+📧 kirtichhabra161@gmail.com
 
 
