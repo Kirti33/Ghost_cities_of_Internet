@@ -38,13 +38,13 @@ cd Ghost_cities_of_Internet
 
 📊 Key Visuals
 
-📉 Google Trends over time
+*📉 Google Trends over time
 
-🌡️ Sentiment analysis
+*🌡️ Sentiment analysis
 
-☁️ Wordclouds from Reddit posts
+*☁️ Wordclouds from Reddit posts
 
-📆 Event timelines (launch → peak → shutdown)
+*📆 Event timelines (launch → peak → shutdown)
 
 
 
