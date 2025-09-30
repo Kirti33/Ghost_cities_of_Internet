@@ -7,16 +7,16 @@ It uses data from **Google Trends, Reddit, and sentiment analysis** to understan
 
 ## 📂 Project Structure
 
+
+```bash
 ghost-cities-of-the-internet/
-│
-├── data/ # Raw datasets (Google Trends, Reddit, Sentiment CSVs)
-├── notebooks/ # Jupyter/Colab notebooks
-│ ├── 01_data_extraction.ipynb
-│ └── 02_visualization_analysis.ipynb
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+├── data/               # All CSVs like trends, Reddit, sentiment
+├── images/             # Figures like PNGs, WordClouds
+├── notebooks/          # Google Colab or Jupyter notebooks
+├── README.md           # Project description
+└── requirements.txt    # Python libraries needed (optional)
 
-
+```
 ---
 
 ## ⚙️ Requirements
