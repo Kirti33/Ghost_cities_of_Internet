@@ -125,12 +125,14 @@ The story of Orkut, Yahoo, Skype, and Clubhouse shows that even the most vibrant
 * Nostalgia Factor: Despite decline, user sentiment often carries warmth and longing — reminders of the communities and memories built on these platforms.
 ~ The lesson: Digital dominance is temporary. Sustained success requires continuous innovation, user-centered design, and resilience against fast-moving competitors.
 ---
-
+Feel free to explore the data and use it for your own projects or analysis! 📊
 
 ## 📬 Connect With Me
 🔗 [GitHub Profile](https://github.com/Kirti33)  
 📝 [Read full analysis on Medium](https://medium.com/@Kirtichhabra/ghost-cities-of-the-internet-85202211d490)
 💼 [LinkedIn](https://www.linkedin.com/in/kirti-chhabra-8b9b9525a)
 📧 kirtichhabra161@gmail.com
+
+
 
 
