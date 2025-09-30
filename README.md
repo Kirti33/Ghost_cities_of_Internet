@@ -27,7 +27,7 @@ Install dependencies with:
 pip install -r requirements.txt
 ```
 
-##🚀 How to Run
+🚀 How to Run
 
 Clone this repo:
 ```bash
@@ -47,6 +47,8 @@ cd Ghost_cities_of_Internet
 📆 Event timelines (launch → peak → shutdown)
 
 
+
+
 🎯 Insights
 
 Platforms often peaked when competitors were weak, but declined after strong rivals launched.
@@ -54,6 +56,9 @@ Platforms often peaked when competitors were weak, but declined after strong riv
 Sentiment analysis shows user frustration often spikes near the decline phase.
 
 Clubhouse followed a classic hype cycle with fast rise and sharp drop.
+
+
+
 
 ✨ Next Steps
 
