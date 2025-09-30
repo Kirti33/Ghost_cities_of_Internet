@@ -77,10 +77,6 @@ cd Ghost_cities_of_Internet
 - **Trend summary:** Rapid rise in the mid-2000s; declined after Facebook expansion.  
 - **Sentiment:** Moderately positive (~0.45 avg), nostalgia-heavy.  
 - **Reddit wordcloud highlights:** friends, community, scrapbook, profile, memories  
-**Visuals:**  
-- ![Orkut timeline](images/orkut_timeline.png)  
-- ![Orkut wordcloud](images/orkut_wordcloud.png)  
-- ![Orkut sentiment](images/orkut_sentiment.png)  
 
 **Lesson learned:** Early social networking focused on friendships, but UX stagnation & competition led to decline.
 
@@ -93,10 +89,6 @@ cd Ghost_cities_of_Internet
 - **Trend summary:** Early web portal dominance; gradually lost search share to Google.  
 - **Sentiment:** Neutral to slightly negative (~0.35 avg).  
 - **Reddit wordcloud highlights:** search, answers, email, messenger, interface  
-**Visuals:**  
-- ![Yahoo timeline](images/yahoo_timeline.png)  
-- ![Yahoo wordcloud](images/yahoo_wordcloud.png)  
-- ![Yahoo sentiment](images/yahoo_sentiment.png)  
 
 **Lesson learned:** Early dominance doesn’t guarantee permanence — continuous innovation matters.
 
@@ -109,10 +101,7 @@ cd Ghost_cities_of_Internet
 - **Trend summary:** Strong desktop-era adoption; declined with mobile-first messaging.  
 - **Sentiment:** Neutral (~0.40 avg), mixed about Microsoft transition.  
 - **Reddit wordcloud highlights:** call, video, messenger, Microsoft, update  
-**Visuals:**  
-- ![Skype timeline](images/skype_timeline.png)  
-- ![Skype wordcloud](images/skype_wordcloud.png)  
-- ![Skype sentiment](images/skype_sentiment.png)  
+ 
 
 **Lesson learned:** Desktop-bound products must adapt to mobile-first trends.
 
@@ -125,10 +114,7 @@ cd Ghost_cities_of_Internet
 - **Trend summary:** Sharp hype cycle: fast rise, fast drop.  
 - **Sentiment:** Positive among early adopters (~0.50 avg), falls with mainstreaming.  
 - **Reddit wordcloud highlights:** rooms, invite, discussion, networking, audio  
-**Visuals:**  
-- ![Clubhouse timeline](images/clubhouse_timeline.png)  
-- ![Clubhouse wordcloud](images/clubhouse_wordcloud.png)  
-- ![Clubhouse sentiment](images/clubhouse_sentiment.png)  
+
 
 **Lesson learned:** Hype can drive rapid adoption; long-term retention needs sustained value.
 
