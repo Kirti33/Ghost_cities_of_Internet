@@ -124,4 +124,13 @@ The story of Orkut, Yahoo, Skype, and Clubhouse shows that even the most vibrant
 * Lack of Innovation: Many failed to adapt to shifting user behavior and technology (desktop → mobile, text → multimedia).
 * Nostalgia Factor: Despite decline, user sentiment often carries warmth and longing — reminders of the communities and memories built on these platforms.
 ~ The lesson: Digital dominance is temporary. Sustained success requires continuous innovation, user-centered design, and resilience against fast-moving competitors.
+---
+
+## 👩‍💻 Author
+
+Project by **Kirti Chhabra**  
+🔗 [GitHub Profile](https://github.com/Kirti33)  
+📝 [Read full analysis on Medium](https://medium.com/@Kirtichhabra/ghost-cities-of-the-internet-85202211d490)
+💼 [LinkedIn](https://www.linkedin.com/in/kirtichhabra/)
+
 
