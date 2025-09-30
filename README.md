@@ -38,32 +38,32 @@ cd Ghost_cities_of_Internet
 
 📊 Key Visuals
 
-*📉 Google Trends over time
+* 📉 Google Trends over time
 
-*🌡️ Sentiment analysis
+* 🌡️ Sentiment analysis
 
-*☁️ Wordclouds from Reddit posts
+* ☁️ Wordclouds from Reddit posts
 
-*📆 Event timelines (launch → peak → shutdown)
+* 📆 Event timelines (launch → peak → shutdown)
 
 
 
 
 🎯 Insights
 
-Platforms often peaked when competitors were weak, but declined after strong rivals launched.
+* Platforms often peaked when competitors were weak, but declined after strong rivals launched.
 
-Sentiment analysis shows user frustration often spikes near the decline phase.
+* Sentiment analysis shows user frustration often spikes near the decline phase.
 
-Clubhouse followed a classic hype cycle with fast rise and sharp drop.
+* Clubhouse followed a classic hype cycle with fast rise and sharp drop.
 
 
 
 
 ✨ Next Steps
 
-Add more platforms (e.g., Vine, Google+, Friendster)
+* Add more platforms (e.g., Vine, Google+, Friendster)
 
-Build an interactive dashboard (Tableau / Plotly Dash)
+* Build an interactive dashboard (Tableau / Plotly Dash)
 
-Predict which current apps may become ghost cities
+* Predict which current apps may become ghost cities
