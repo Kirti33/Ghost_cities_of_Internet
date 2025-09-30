@@ -25,10 +25,15 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
+```
 
-🚀 How to Run
+##🚀 How to Run
 
 Clone this repo:
+```bash
+git clone https://github.com/Kirti33/Ghost_cities_of_Internet.git
+cd Ghost_cities_of_Internet
+```
 
 
 📊 Key Visuals
